@@ -1,0 +1,48 @@
+{
+  "arch": "x86_64", 
+  "build": "np110py27_1", 
+  "build_number": 1, 
+  "depends": [
+    "mkl 11.3.1", 
+    "numpy 1.10*", 
+    "python 2.7*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/numexpr-2.4.6-py2.7.egg-info", 
+    "lib/python2.7/site-packages/numexpr/__config__.py", 
+    "lib/python2.7/site-packages/numexpr/__config__.pyc", 
+    "lib/python2.7/site-packages/numexpr/__init__.py", 
+    "lib/python2.7/site-packages/numexpr/__init__.pyc", 
+    "lib/python2.7/site-packages/numexpr/cpuinfo.py", 
+    "lib/python2.7/site-packages/numexpr/cpuinfo.pyc", 
+    "lib/python2.7/site-packages/numexpr/expressions.py", 
+    "lib/python2.7/site-packages/numexpr/expressions.pyc", 
+    "lib/python2.7/site-packages/numexpr/interpreter.so", 
+    "lib/python2.7/site-packages/numexpr/necompiler.py", 
+    "lib/python2.7/site-packages/numexpr/necompiler.pyc", 
+    "lib/python2.7/site-packages/numexpr/tests/__init__.py", 
+    "lib/python2.7/site-packages/numexpr/tests/__init__.pyc", 
+    "lib/python2.7/site-packages/numexpr/tests/test_numexpr.py", 
+    "lib/python2.7/site-packages/numexpr/tests/test_numexpr.pyc", 
+    "lib/python2.7/site-packages/numexpr/utils.py", 
+    "lib/python2.7/site-packages/numexpr/utils.pyc", 
+    "lib/python2.7/site-packages/numexpr/version.py", 
+    "lib/python2.7/site-packages/numexpr/version.pyc"
+  ], 
+  "license": "MIT", 
+  "link": {
+    "source": "/home/zhangyb/anaconda2/pkgs/numexpr-2.4.6-np110py27_1", 
+    "type": "hard-link"
+  }, 
+  "name": "numexpr", 
+  "platform": "linux", 
+  "requires": [
+    "mkl 11.3.1", 
+    "numpy 1.10", 
+    "python 2.7"
+  ], 
+  "subdir": "linux-64", 
+  "ucs": 4, 
+  "url": "https://repo.continuum.io/pkgs/free/linux-64/numexpr-2.4.6-np110py27_1.tar.bz2", 
+  "version": "2.4.6"
+}

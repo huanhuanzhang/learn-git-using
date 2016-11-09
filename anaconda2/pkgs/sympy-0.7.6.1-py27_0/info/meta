@@ -1,0 +1,7 @@
+pkg: sympy-0.7.6.1
+dist: sympy-0.7.6.1-py27_0
+home: http://sympy.org
+license: 3-clause BSD
+has_bin: True
+has_lib: False
+has_py: True

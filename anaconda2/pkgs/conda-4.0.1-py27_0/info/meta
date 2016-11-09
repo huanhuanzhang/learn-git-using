@@ -1,0 +1,7 @@
+pkg: conda-4.0.1
+dist: conda-4.0.1-py27_0
+home: http://conda.pydata.org/
+license: BSD
+has_bin: True
+has_lib: False
+has_py: True

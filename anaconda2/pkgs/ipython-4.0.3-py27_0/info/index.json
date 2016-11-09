@@ -1,0 +1,27 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "decorator", 
+    "pexpect 3.3", 
+    "pickleshare", 
+    "python 2.7*", 
+    "simplegeneric", 
+    "traitlets"
+  ], 
+  "license": "BSD", 
+  "name": "ipython", 
+  "platform": "linux", 
+  "requires": [
+    "decorator 4.0.6", 
+    "pexpect 3.3", 
+    "pickleshare 0.5", 
+    "python 2.7", 
+    "simplegeneric 0.8.1", 
+    "traitlets 4.1.0"
+  ], 
+  "subdir": "linux-64", 
+  "ucs": 4, 
+  "version": "4.0.3"
+}

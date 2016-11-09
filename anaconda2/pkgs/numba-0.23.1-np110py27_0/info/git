@@ -1,0 +1,17 @@
+==> git log -n1 <==
+commit 2a3e31a05e72cdae5bea018b9a5ec2e9479f2594
+Merge: ad94837 69c19d3
+Author: Stan Seibert <stan@mtrr.org>
+Date:   Wed Jan 20 11:36:30 2016 -0600
+
+    Merge pull request #1647 from pitrou/changelog0231
+    
+    Changelog for 0.23.1
+
+==> git describe --tags --dirty <==
+0.23.1
+
+==> git status <==
+# On branch master
+nothing to commit (working directory clean)
+

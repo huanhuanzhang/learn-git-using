@@ -1,0 +1,17 @@
+==> git log -n1 <==
+commit 6c30cbecf8e5ae610f2a37ba821116bd9f77044d
+Merge: 02dc09b 6df97d8
+Author: Jeff Reback <jeff@reback.net>
+Date:   Fri Nov 20 11:48:23 2015 -0500
+
+    Merge pull request #11663 from TomAugspurger/doc-fixup-more
+    
+    DOC: a few touchups
+
+==> git describe --tags --dirty <==
+v0.17.1
+
+==> git status <==
+# Not currently on any branch.
+nothing to commit, working directory clean
+

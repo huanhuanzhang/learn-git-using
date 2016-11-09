@@ -1,0 +1,14 @@
+==> git log -n1 <==
+commit 9bd8fb970a0fc55e866a0b46b5101c9aa47e24ed
+Author: Blake Griffith <blake.a.griffith@gmail.com>
+Date:   Mon Dec 7 12:14:12 2015 -0600
+
+    Update release notes.
+
+==> git describe --tags --dirty <==
+0.5.0
+
+==> git status <==
+# Not currently on any branch.
+nothing to commit, working directory clean
+

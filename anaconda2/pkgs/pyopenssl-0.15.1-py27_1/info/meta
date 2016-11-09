@@ -1,0 +1,7 @@
+pkg: pyopenssl-0.15.1
+dist: pyopenssl-0.15.1-py27_1
+home: https://github.com/pyca/pyopenssl
+license: Apache
+has_bin: False
+has_lib: False
+has_py: True

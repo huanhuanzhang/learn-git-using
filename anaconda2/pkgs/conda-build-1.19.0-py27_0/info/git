@@ -1,0 +1,18 @@
+==> git log -n1 <==
+commit a37551aa9c8e22d1cc5e1856d68bc1b9ef53d9ba
+Author: Ilan Schnell <ilanschnell@gmail.com>
+Date:   Fri Jan 29 15:00:34 2016 -0600
+
+    update changelog, add release date
+
+==> git describe --tags --dirty <==
+1.19.0
+
+==> git status <==
+# Not currently on any branch.
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	ANACONDA_DIST.txt
+nothing added to commit but untracked files present (use "git add" to track)
+

@@ -1,0 +1,55 @@
+{
+  "about": {
+    "home": "http://libdynd.org", 
+    "license": "BSD"
+  }, 
+  "app": {}, 
+  "build": {
+    "entry_points": [], 
+    "features": [], 
+    "number": "1377", 
+    "pin_depends": "", 
+    "rpaths": [
+      "lib", 
+      "lib/python2.7/site-packages/dynd"
+    ], 
+    "script_env": [
+      "CC", 
+      "CXX"
+    ], 
+    "string": "", 
+    "track_features": []
+  }, 
+  "package": {
+    "name": "dynd-python", 
+    "version": "0.7.1"
+  }, 
+  "requirements": {
+    "build": [
+      "python", 
+      "setuptools", 
+      "cython", 
+      "numpy", 
+      "libdynd"
+    ], 
+    "conflicts": [], 
+    "run": [
+      "python", 
+      "numpy", 
+      "libdynd"
+    ]
+  }, 
+  "source": {
+    "git_rev": "", 
+    "md5": "", 
+    "patches": [], 
+    "path": "", 
+    "svn_rev": ""
+  }, 
+  "test": {
+    "commands": [], 
+    "files": [], 
+    "imports": [], 
+    "requires": []
+  }
+}

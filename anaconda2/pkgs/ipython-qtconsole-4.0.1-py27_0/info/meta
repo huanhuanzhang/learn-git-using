@@ -1,0 +1,7 @@
+pkg: ipython-qtconsole-4.0.1
+dist: ipython-qtconsole-4.0.1-py27_0
+home: http://ipython.org/
+license: BSD
+has_bin: False
+has_lib: False
+has_py: False

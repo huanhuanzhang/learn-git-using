@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /home/zhangyb/anaconda2/bin/python /home/zhangyb/anaconda2/lib/python2.7/site-packages/PyQt4/uic/pyuic.py ${1+"$@"}

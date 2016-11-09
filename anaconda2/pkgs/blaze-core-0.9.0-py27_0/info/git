@@ -1,0 +1,17 @@
+==> git log -n1 <==
+commit 2d3a2e2f05c4a01d8314fecc7aaa62a29c044ed1
+Merge: 06a642f 5c17604
+Author: Blake Griffith <blake.a.griffith@gmail.com>
+Date:   Thu Dec 17 17:40:05 2015 -0600
+
+    Merge pull request #1364 from cowlicks/release-fixes
+    
+    Release fixes
+
+==> git describe --tags --dirty <==
+0.9.0
+
+==> git status <==
+# Not currently on any branch.
+nothing to commit, working directory clean
+

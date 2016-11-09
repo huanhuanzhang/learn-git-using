@@ -1,0 +1,24 @@
+{
+  "app_entry": "ipython qtconsole", 
+  "app_type": "desk", 
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*", 
+    "qtconsole"
+  ], 
+  "icon": "5e8fa0302270586eb7b2ecf71c1d1529.png", 
+  "license": "BSD", 
+  "name": "ipython-qtconsole", 
+  "platform": "linux", 
+  "requires": [
+    "python 2.7", 
+    "qtconsole 4.0.1"
+  ], 
+  "subdir": "linux-64", 
+  "summary": "IPython QtConsole", 
+  "type": "app", 
+  "ucs": 4, 
+  "version": "4.0.1"
+}

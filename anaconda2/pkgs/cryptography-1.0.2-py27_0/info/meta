@@ -1,0 +1,7 @@
+pkg: cryptography-1.0.2
+dist: cryptography-1.0.2-py27_0
+home: https://github.com/pyca/cryptography
+license: Apache
+has_bin: False
+has_lib: False
+has_py: True

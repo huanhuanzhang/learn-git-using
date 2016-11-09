@@ -1,0 +1,23 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "ipykernel", 
+    "ipython_genutils", 
+    "jinja2", 
+    "jupyter_client", 
+    "jupyter_core", 
+    "nbconvert", 
+    "nbformat", 
+    "python 2.7*", 
+    "terminado", 
+    "tornado", 
+    "traitlets"
+  ], 
+  "license": "BSD", 
+  "name": "notebook", 
+  "platform": "linux", 
+  "subdir": "linux-64", 
+  "version": "4.1.0"
+}
